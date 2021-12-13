@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_img_headline">image News Headline</string>
+    <string name="txt_separate">|</string>
+    <string name="content_img_news">image News</string>
+</resources>
